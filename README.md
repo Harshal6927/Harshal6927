@@ -36,8 +36,8 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://twitter.com/harshallaheri12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmahesh62" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harshallaheri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulmahesh" height="30" width="40" /></a>
+<a href="https://twitter.com/harshallaheri12/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmahesh62" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshallaheri/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulmahesh" height="30" width="40" /></a>
 </p>
 
 <!---
