@@ -7,8 +7,7 @@
 <strong><p align="center">I'm pursuing Bachelors degree in Information Technology. (In final year)</p></strong>
 
 <p align="center">
-⚙️ I like working with Backend technologies<br> 
-💬 Ask me about Backend web dev, Django or FastAPI<br>
+⚙️ I like working with Backend technologies<br>
 📫 How to reach me: DM me on Twitter or LinkedIn
 </p><br/>
 
