@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Harshal</h1><br/>
 
-<strong><p align="center">Backend engineer and postgraduate student specializing in web and backend development.<br/>
+<strong><p align="center">Backend engineer and postgrad student specializing in web and backend development.<br/>
 Passionate about creating robust and scalable software.</p></strong>
 
 <p align="center">
